@@ -1,4 +1,3 @@
-```markdown
 # **Curso Completo de Series Temporales (Beginner a Pro)**
 
 ---
@@ -137,4 +136,3 @@
 - **Descripción**: El proyecto final consistirá en aplicar una combinación de técnicas aprendidas a lo largo del curso para resolver un problema real de series temporales. Selecciona un conjunto de datos complejo, como precios de acciones, demanda de energía o ventas de productos, y aplica técnicas como ARIMA, SARIMA, GARCH, LSTM, y modelos de machine learning para construir un sistema de predicción integral. Evalúa el rendimiento de cada modelo y proporciona recomendaciones basadas en el análisis comparativo.
 
 ---
-```
